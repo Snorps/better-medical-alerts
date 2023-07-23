@@ -2,7 +2,7 @@
 <ModMetaData>
     <name>Better Medical Alerts</name>
     <author>Snorps</author>
-    <packageId>snorps.better_medical_alerts</packageId>
+    <packageId>snorps.bettermedicalalerts</packageId>
     <description>Ever had that problem where you'll have multiple colonists bleeding out, you'll patch them all up, but the emergency medical alert doesn't go away, and then an unrelated pawn you didn't know was injured suddenly dies, because their medical alert didn't pop up because there was already an active medical alert for the first colonists? Yeah? Do you also want to put someone's head through a sink right about now?- 
 Well worry no longer, the snorps have you covered. This mod removes medical alerts for colonists who aren't in danger. Once a pawn is patched up, and no longer leaking blood all over your nice clean sterile tile floor, their emergency medical alert will go away allowing you to be alerted once again when little Timmy lying peacefully in his bed on the other side of the map begins to enter what would otherwise be the final moments of his life. You're welcome!
 
