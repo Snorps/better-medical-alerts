@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<PawnsBleedingOut>Bleeding out</PawnsBleedingOut>
+	<PawnsBleedingOutDesc>People are at risk of death due to blood loss.:\n\n{0}\nPatch up their wounds before they die.</PawnsBleedingOutDesc>
+	
+	<PawnsInfectedDeadly>Dangerous Infection</PawnsInfectedDeadly>
+	<PawnsInfectedDeadlyDesc>People have infections that will kill them without better treatment.:\n\n{0}\nTreat their infection with the best medicine you have in the most sterile place you can.\n\nIf you can't provide better care, you should consider cryptosleep or amputation.</PawnsInfectedDeadlyDesc>
+	
+</LanguageData>

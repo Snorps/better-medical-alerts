@@ -1,0 +1,8 @@
+E:\Libraries\Games\Rimworld\Pirated\RimWorld.Biotech\RimWorld.Biotech\Mods\better-medical-alerts\better-medical-alerts\bin\Debug\better_medical_alerts.dll
+E:\Libraries\Games\Rimworld\Pirated\RimWorld.Biotech\RimWorld.Biotech\Mods\better-medical-alerts\better-medical-alerts\bin\Debug\better_medical_alerts.pdb
+E:\Libraries\Games\Rimworld\Pirated\RimWorld.Biotech\RimWorld.Biotech\Mods\better-medical-alerts\better-medical-alerts\obj\Debug\better-medical-alerts.csproj.AssemblyReference.cache
+E:\Libraries\Games\Rimworld\Pirated\RimWorld.Biotech\RimWorld.Biotech\Mods\better-medical-alerts\better-medical-alerts\obj\Debug\better-medical-alerts.csproj.CoreCompileInputs.cache
+E:\Libraries\Games\Rimworld\Pirated\RimWorld.Biotech\RimWorld.Biotech\Mods\better-medical-alerts\better-medical-alerts\obj\Debug\better_medical_alerts.dll
+E:\Libraries\Games\Rimworld\Pirated\RimWorld.Biotech\RimWorld.Biotech\Mods\better-medical-alerts\better-medical-alerts\obj\Debug\better_medical_alerts.pdb
+E:\Libraries\Games\Rimworld\Pirated\RimWorld.Biotech\RimWorld.Biotech\Mods\better-medical-alerts\Assemblies\better_medical_alerts.dll
+E:\Libraries\Games\Rimworld\Pirated\RimWorld.Biotech\RimWorld.Biotech\Mods\better-medical-alerts\Assemblies\better_medical_alerts.pdb
